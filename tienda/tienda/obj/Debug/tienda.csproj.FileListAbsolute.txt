@@ -1,0 +1,13 @@
+C:\Users\cvr\Documents\projects\tienda\tienda\bin\Debug\tienda.exe.config
+C:\Users\cvr\Documents\projects\tienda\tienda\bin\Debug\tienda.exe
+C:\Users\cvr\Documents\projects\tienda\tienda\bin\Debug\tienda.pdb
+C:\Users\cvr\Documents\projects\tienda\tienda\obj\Debug\tienda.Form1.resources
+C:\Users\cvr\Documents\projects\tienda\tienda\obj\Debug\tienda.Properties.Resources.resources
+C:\Users\cvr\Documents\projects\tienda\tienda\obj\Debug\tienda.csproj.GenerateResource.cache
+C:\Users\cvr\Documents\projects\tienda\tienda\obj\Debug\tienda.csproj.CoreCompileInputs.cache
+C:\Users\cvr\Documents\projects\tienda\tienda\obj\Debug\tienda.exe
+C:\Users\cvr\Documents\projects\tienda\tienda\obj\Debug\tienda.pdb
+C:\Users\cvr\Documents\projects\tienda\tienda\obj\Debug\tienda.registrar.resources
+C:\Users\cvr\Documents\projects\tienda\tienda\obj\Debug\tienda.consultar.resources
+C:\Users\cvr\Documents\projects\tienda\tienda\obj\Debug\tienda.eliminar.resources
+C:\Users\cvr\Documents\projects\tienda\tienda\obj\Debug\tienda.csprojAssemblyReference.cache
